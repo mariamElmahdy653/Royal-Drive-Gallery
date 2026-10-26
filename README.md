@@ -2,30 +2,40 @@
 
 ## Project Overview
 
-Royal Drive Gallery is a Car Rental Agency database project developed using Microsoft Access. The project was created to organize car rental-related data in a structured database.
+Royal Drive Gallery is a Car Rental Agency database project developed using Microsoft Access. The project focuses on organizing car rental data and managing database operations through a structured database design.
 
 ## Technologies Used
 
 - Microsoft Access
-- Database Design
-- Relational Database Concepts
+- Relational Database Design
+- Database Queries
+- Forms and Data Management
+
+## Key Features
+
+- **Tables:** Organize and store car rental-related data.
+- **Relationships:** Define connections between related tables.
+- **Queries:** Retrieve and work with data stored in the database.
+- **Forms:** Provide a user-friendly interface for interacting with database records.
 
 ## Project Objectives
 
-- Organize car rental-related information in a database.
-- Structure data using database tables.
-- Practice database design and management using Microsoft Access.
+- Design a structured database for a car rental agency.
+- Establish relationships between related data.
+- Use queries to retrieve and manage information.
+- Create forms to interact with database records.
+- Apply database design concepts in a practical project.
 
 ## Project Files
 
-- **Royal Drive Gallery (`.accdb`):** The Microsoft Access database file containing the project.
+- **Royal Drive Gallery (`.accdb`):** The Microsoft Access database containing the tables, relationships, queries, and forms.
 
 ## How to Open the Project
 
-1. Download the database file from this repository.
-2. Open it using Microsoft Access.
-3. Explore the database objects available in the project.
+1. Download the `.accdb` file from this repository.
+2. Open the file using Microsoft Access.
+3. Explore the tables, relationships, queries, and forms.
 
-## Notes
+## 📝 Notes
 
-This project was developed for educational purposes as a database design and management project using Microsoft Access.
+This project was developed for educational purposes to practice relational database design and database management using Microsoft Access.
